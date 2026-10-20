@@ -1,3 +1,6 @@
+# Foxit_PDF_Reader
+
+This is a download for the latest (now deprecated by Foxit, unfortunately) version for Linux. 
 
 Foxit makes a free PDF reader here: https://www.foxit.com/pdf-reader/. 
 
